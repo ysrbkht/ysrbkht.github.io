@@ -1,0 +1,27 @@
+/* Texts in Persian (fa), Arabic (ar) and English (en). Edit freely. */
+window.T = {
+fa:{dir:"rtl",brand:"اپ‌های قرآنی",nApps:"برنامه‌ها",nGuide:"روش نصب",h1:"قرآن و اذکار، همیشه همراه شما",lead:"برنامه‌های ساده و زیبا برای حفظ و تلاوت قرآن کریم و ذکر روزانه؛ برای آیفون، اندروید و ویندوز.",cta:"دیدن برنامه‌ها",
+secT:"برنامه‌ها",secP:"برنامهٔ مورد نظر را برای دستگاه خود انتخاب و دانلود کنید.",
+azT:"اذکار",azD:"اذکار صبح و شام و اذکار روزانه، همیشه در دسترس.",quT:"قرآن کریم، مصحف حفظی",quD:"مصحفی ویژهٔ حفظ قرآن کریم برای تکرار، مرور و تثبیت حفظ.",
+os:{ios:"آیفون",and:"اندروید",win:"ویندوز"},act:{pwa:"باز کردن و نصب",apk:"دانلود",exe:"دانلود"},
+soonT:"برنامه‌های بیشتر در راه است",soonD:"به‌زودی برنامه‌های تازه به همین‌جا اضافه می‌شوند.",
+gT:"روش نصب",g1h:"آیفون",g1:"در سافاری باز کنید، دکمهٔ اشتراک‌گذاری را بزنید و «افزودن به صفحهٔ اصلی» را انتخاب کنید.",
+g2h:"اندروید",g2:"فایل APK را دانلود کنید و اجازهٔ نصب از منابع ناشناس را فعال کنید.",
+g3h:"ویندوز",g3:"نسخهٔ وب را در کروم یا اج باز کنید و نصب را بزنید، یا فایل EXE را اجرا کنید.",foot:"برای خدمت به کتاب خدا ساخته شده است."},
+ar:{dir:"rtl",brand:"تطبيقات قرآنية",nApps:"التطبيقات",nGuide:"طريقة التثبيت",h1:"القرآن والأذكار، رفيقك في كل مكان",lead:"تطبيقات بسيطة وجميلة لحفظ القرآن الكريم وتلاوته والأذكار اليومية، لأجهزة آيفون وأندرويد وويندوز.",cta:"تصفّح التطبيقات",
+secT:"التطبيقات",secP:"اختر التطبيق المناسب لجهازك ونزّله.",
+azT:"الأذكار",azD:"أذكار الصباح والمساء والأذكار اليومية، دائماً بين يديك.",quT:"القرآن الكريم، مصحف الحفظ",quD:"مصحف مخصص لحفظ القرآن الكريم، للتكرار والمراجعة وتثبيت الحفظ.",
+os:{ios:"آيفون",and:"أندرويد",win:"ويندوز"},act:{pwa:"افتح وثبّت",apk:"تنزيل",exe:"تنزيل"},
+soonT:"المزيد من التطبيقات قادم",soonD:"ستُضاف تطبيقات جديدة هنا قريباً.",
+gT:"طريقة التثبيت",g1h:"آيفون",g1:"افتحه في سفاري، واضغط زر المشاركة، ثم اختر «إضافة إلى الشاشة الرئيسية».",
+g2h:"أندرويد",g2:"نزّل ملف APK وفعّل السماح بالتثبيت من مصادر غير معروفة.",
+g3h:"ويندوز",g3:"افتح نسخة الويب في كروم أو إيدج واضغط تثبيت، أو شغّل ملف EXE.",foot:"صُنعت لخدمة كتاب الله."},
+en:{dir:"ltr",brand:"Quran Apps",nApps:"Apps",nGuide:"How to install",h1:"The Quran and daily remembrance, always with you",lead:"Simple, beautiful apps for memorising and reciting the Quran and for daily adhkar, on iPhone, Android and Windows.",cta:"Browse the apps",
+secT:"Apps",secP:"Pick the app and the version for your device, then download it.",
+azT:"Azkar",azD:"Morning, evening and daily adhkar, always within reach.",quT:"The Holy Quran, Hifz Mushaf",quD:"A Mushaf made for memorising the Quran: repeat, review and retain.",
+os:{ios:"iPhone",and:"Android",win:"Windows"},act:{pwa:"Open and install",apk:"Download",exe:"Download"},
+soonT:"More apps are on the way",soonD:"New apps will be added here soon.",
+gT:"How to install",g1h:"iPhone",g1:"Open it in Safari, tap Share, then choose “Add to Home Screen”.",
+g2h:"Android",g2:"Download the APK file and allow installation from unknown sources.",
+g3h:"Windows",g3:"Open the web app in Chrome or Edge and click Install, or run the EXE file.",foot:"Built in service of the Book of Allah."}
+};
