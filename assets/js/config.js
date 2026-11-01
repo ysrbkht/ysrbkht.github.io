@@ -3,8 +3,8 @@
    apk/exe  -> file in this repo (e.g. "downloads/azkar.apk") or a GitHub Releases link */
 window.SITE = {
   links: {
-    azkar: { pwa: "#", apk: "#" },
-    quran: { pwa: "https://yaserbakhtiar.github.io/q/", apk: "#", exe: "#" }
+    azkar: { pwa: "https://yaserbakhtiar.github.io/zikr/", apk: "https://github.com/ysrbkht/ysrbkht.github.io/releases/download/v1/Azkar-1.0.0.apk" },
+    quran: { pwa: "https://yaserbakhtiar.github.io/q/", apk: "#", exe: "https://github.com/ysrbkht/ysrbkht.github.io/releases/download/v1/QuranKarim-Setup-1.0.0.exe" }
   },
   rows: {
     azkar: [["ios","pwa"],["win","pwa"],["and","apk"]],
